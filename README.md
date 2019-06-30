@@ -9,7 +9,7 @@
 
 
 4、运行exe监控软件，扫码登录你的微信，如果登录后被退出去，请打开ie浏览器清楚cookie
-
+![Image text](https://raw.githubusercontent.com/aliffffff/pay/master/QQ%E5%9B%BE%E7%89%8720190630135742.png)
 5、登录后，在exe填写的你的网站域名，填写你的签名，点击右边的【设定】
 
 6、exe的签名配置、网站系统配置签名、\public\example 里面的3个php的签名都必须一致
